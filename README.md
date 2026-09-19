@@ -32,7 +32,7 @@ the original feature goes to PallasDav.
   you.
 - **Come back and edit later**: import an already-exported `flagarea.fpkd`
   and every flag/tree in it appears in Blender again, ready to move,
-  resize, or add to. Export again when you're happy.
+  resize, or add to. Export again when you're happy. (Not available previously)
 - Works on **Windows, macOS, and Linux**.
 
 ## Before you install
