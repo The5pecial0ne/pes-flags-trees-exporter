@@ -1,0 +1,38 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl cm004_bg_tree002_cmem
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\st059\\Asset\\model\\bg\\st059\\sourceimages\\tga\\#windx11\\cm004_bg_tree002_cmem_bsm.dds
+map_d D:\\st059\\Asset\\model\\bg\\st059\\sourceimages\\tga\\#windx11\\cm004_bg_tree002_cmem_bsm.dds
+
+newmtl cm059_h_tree017
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\st059\\Asset\\model\\bg\\st059\\sourceimages\\tga\\#windx11\\cm059_h_tree017_bsm_alp.dds
+map_d D:\\st059\\Asset\\model\\bg\\st059\\sourceimages\\tga\\#windx11\\cm059_h_tree017_bsm_alp.dds
+
+newmtl cm059_h_tree018
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\st059\\Asset\\model\\bg\\st059\\sourceimages\\tga\\#windx11\\cm059_h_tree018_bsm_alp.dds
+map_d D:\\st059\\Asset\\model\\bg\\st059\\sourceimages\\tga\\#windx11\\cm059_h_tree018_bsm_alp.dds
